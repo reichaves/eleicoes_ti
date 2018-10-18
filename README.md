@@ -9,3 +9,5 @@ Durante a campanha Unidos Contra a Corrupção
 3 - Cria arquivos com quantidades de votos de candidatos em 2014
 
 4 - Cria arquivos com endereços de zonas eleitorais do Brasil
+
+5 - Raspa site do STF em busca de INQs e APs de políticos
