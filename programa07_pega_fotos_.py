@@ -1,5 +1,6 @@
 # -*- coding: utf-8
 # Reinaldo Chaves (@paidatocandeira)
+# Transparency International - Brazil (https://transparenciainternacional.org.br)
 # Faz o download de fotos do DivulgaCand a partir de DataFrame que tem os códigos sequencial do TSE
 #
 
