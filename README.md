@@ -11,3 +11,7 @@ Durante a campanha Unidos Contra a Corrupção
 4 - Cria arquivos com endereços de zonas eleitorais do Brasil
 
 5 - Raspa site do STF em busca de INQs e APs de políticos
+
+6 - Faz filtros e somas com os processos de políticos no STF
+
+7 - Faz o download de fotos do DivulgaCand a partir de DataFrame que tem os códigos sequencial do TSE
