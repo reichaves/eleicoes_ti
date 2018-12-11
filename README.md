@@ -15,3 +15,14 @@
 6 - Faz filtros e somas com os processos de políticos no STF
 
 7 - Faz o download de fotos do DivulgaCand a partir de DataFrame que tem os códigos sequencial do TSE
+
+8 - Forma um dataframe com informações sobre os motivos das cassações de candidatos nas eleições 2018
+
+9 - Trata as bases de informações do SurveyMonkey (registro de candidatos que aderiram à campanha) e do Pacto pela Democracia (registro de candidatos que aderiram)
+
+10 - Une bases de candidatos com dados gerais e bases do SurveyMonkey e Pacto
+
+11 - Padroniza base final, que foi gerada diariamente, e cria coluna de cores
+
+12 - Acessa a última base da campanha gerada e verifica quais candidatos foram eleitos
+
