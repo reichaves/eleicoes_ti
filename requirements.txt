@@ -1,0 +1,10 @@
+jupyterlab
+pandas
+requests
+unidecode
+matplotlib
+seaborn
+beautifulsoup4
+selenium
+openpyxl
+xlrd
